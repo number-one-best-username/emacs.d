@@ -1,3 +1,5 @@
 backups/*
 elpa/*
 session.*
+auto-save-list
+.emacs.desktop

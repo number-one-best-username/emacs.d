@@ -1,5 +1,7 @@
-backups/*
-elpa/*
+personal.el
+backups
+elpa
 session.*
 auto-save-list
-.emacs.desktop
+.emacs.desktop*
+network-security.data
